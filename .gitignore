@@ -1,0 +1,5 @@
+#Gitignore
+tmp
+.jekyll-cache
+Gemfile.lock
+_site/
